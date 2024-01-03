@@ -1,0 +1,66 @@
+[
+    {
+        "nombre": "Estados Unidos",
+        "capital": "Washington D.C",
+        "presidente": "Joe Biden",
+        "continente": "Norte America",
+        "poblacion": 331000000,
+        "idioma": "inglés"
+    },
+    {
+        "nombre": "Perú",
+        "capital": "Lima",
+        "presidente": "Dina Boluarte",
+        "continente": "America del Sur",
+        "poblacion": 33000000,
+        "idioma": "español"
+    },
+    {
+        "nombre": "Alemania",
+        "capital": "Berlín",
+        "presidente": "Frank-Walter Steinmeier",
+        "continente": "Europa",
+        "poblacion": 83000000,
+        "idioma": "alemán"
+    },
+    {
+        "nombre": "Inglaterra",
+        "capital": "Londres",
+        "presidente": "Boris Johnson",
+        "continente": "Europa",
+        "poblacion": 56000000,
+        "idioma": "inglés"
+    },
+    {
+        "nombre": "China",
+        "capital": "Pekín",
+        "presidente": "Xi Jinping",
+        "continente": "Asia",
+        "poblacion": 1411000000,
+        "idioma": "chino mandarín"
+    },
+    {
+        "nombre": "Australia",
+        "capital": "Canberra",
+        "presidente": "Anthony Albanese",
+        "continente": "Oceanía",
+        "poblacion": 26000000,
+        "idioma": "inglés"
+    },
+    {
+        "nombre": "Japón",
+        "capital": "Tokio",
+        "presidente": "Fumio Kishida",
+        "continente": "Asia",
+        "poblacion": 126000000,
+        "idioma": "japonés"
+    },
+    {
+        "nombre": "Canadá",
+        "capital": "Ottawa",
+        "presidente": "Justin Trudeau",
+        "continente": "Norte America",
+        "poblacion": 38000000,
+        "idioma": "inglés y francés"
+    }
+]
